@@ -38,9 +38,9 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 * 📉 **[Clinical Data Science: Spotify Mood Prediction & Statistical Inference](https://github.com/robert-jacques/INF6027-Predictive-Modelling)** (76%) — *INF6027*
   Investigated relationships between musical valence and audio features using **Principal Component Analysis (PCA)** for dimensionality reduction and latent pattern extraction.
 
-* ☁️ **[Big Data Analytics & PySpark](link)** (73%) — *INF6032*
-  Utilised **PySpark** on **Databricks** to analyze Wikipedia and MAGPIE datasets.
-  * **Highlights:** Implemented **NGram transformers** for phrase extraction and used **Window functions** for distributed ranking. Identified 67 unique idiomatic matches using **Inner Joins** across large-scale corpora.
+* ☁️ **[Big Data Analytics: Distributed NLP & Pattern Matching](https://github.com/robert-jacques/INF6032-Big-Data-PySpark)** (73%) — *INF6032*
+  Utilised **PySpark** on **Azure Databricks** to perform high-scale analysis of Wikipedia and MAGPIE datasets. 
+  * **Highlights:** Engineered distributed pipelines using **NGram transformers** for phrase extraction and **Window functions** for complex ranking. Successfully resolved a large-scale **Inner Join** to identify 67 unique idiomatic matches across multi-million row corpora.
 
 ---
 
