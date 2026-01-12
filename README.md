@@ -35,7 +35,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 * 📊 **[Clinical Data Visualisation: Spotify Audio Feature Analysis](https://github.com/robert-jacques/INF4000-Data-Visualisation)** (83%) — *INF4000*
   Applied the **ASSERT framework** to the Spotify Tracks Dataset to analyse mood-based audio feature variance. Engineered inclusive designs for **Colour Vision Deficiency** using the `viridis` palette.
 
-* 📉 **[Predictive Modelling & PCA](https://github.com/robert-jacques/INF6027-Predictive-Modelling)** (76%) — *INF6027*
+* 📉 **[Clinical Data Science: Spotify Mood Prediction & Statistical Inference](https://github.com/robert-jacques/INF6027-Predictive-Modelling)** (76%) — *INF6027*
   Investigated relationships between musical valence and audio features using **Principal Component Analysis (PCA)** for dimensionality reduction and latent pattern extraction.
 
 * ☁️ **[Big Data Analytics & PySpark](link)** (73%) — *INF6032*
