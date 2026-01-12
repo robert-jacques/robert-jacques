@@ -16,7 +16,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 | :--- | :--- |
 | **Explainable AI** | Expert implementation of **SHAP** to address the "multiplicity problem" in high-dimensional genomic models. |
 | **Visualisation** | Mastery of the **ASSERT framework** to manage clinician cognitive load and engineer intuitive visual hierarchies. |
-| **Scalable Analytics** | Distributed workflows using **PySpark** and **Azure Databricks** for N-gram analysis and pattern matching. |
+| **Distributed Computing** | Scalable workflows using **PySpark (DataFrame & RDD APIs)** on **Azure Databricks** for high-throughput text mining. |
 | **Data Engineering** | Precision pre-processing including **$log_{2}$ transformation**, **IQR filtering**, and **Standardisation**. |
 
 <p align="center">
@@ -40,7 +40,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 
 * ☁️ **[Big Data Analytics: Distributed NLP & Pattern Matching](https://github.com/robert-jacques/INF6032-Big-Data-PySpark)** (73%) — *INF6032*
   Utilised **PySpark** on **Azure Databricks** to perform high-scale analysis of Wikipedia and MAGPIE datasets. 
-  * **Highlights:** Engineered distributed pipelines using **NGram transformers** for phrase extraction and **Window functions** for complex ranking. Successfully resolved a large-scale **Inner Join** to identify 67 unique idiomatic matches across multi-million row corpora.
+  * **Highlights:** Engineered distributed pipelines featuring **Dual-API (DataFrame & RDD)** bigram extraction and **Window functions** for complex frequency ranking across multi-million row corpora.
 
 ---
 
