@@ -32,10 +32,10 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 * 🧬 **[Psoriasis Classification & XAI](https://github.com/robert-jacques/INF6000-Dissertation-Psoriasis-ML)** (86%) — *INF6000 (Dissertation)*
   Developed a multi-model pipeline to identify a five-gene consensus signature (*BTC*, *CHI3L2*, *LCE3A*, *S100A9*, *SPRR2G*) from 21,510 genomic features. **NYHDIF Prize Winner.**
 
-* 📊 **[Music Feature Analysis & Visualisation](link)** (83%) — *INF4000*
+* 📊 **[Music Feature Analysis & Visualisation](https://github.com/robert-jacques/INF4000-Data-Visualisation)** (83%) — *INF4000*
   Applied the **ASSERT framework** to the Spotify Tracks Dataset to analyse mood-based audio feature variance. Engineered inclusive designs for **Colour Vision Deficiency** using the `viridis` palette.
 
-* 📉 **[Predictive Modelling & PCA](link)** (76%) — *INF6027*
+* 📉 **[Predictive Modelling & PCA](https://github.com/robert-jacques/INF6027-Predictive-Modelling)** (76%) — *INF6027*
   Investigated relationships between musical valence and audio features using **Principal Component Analysis (PCA)** for dimensionality reduction and latent pattern extraction.
 
 * ☁️ **[Big Data Analytics & PySpark](link)** (73%) — *INF6032*
