@@ -44,5 +44,9 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 
 ---
 
-## 📫 Contact
-📧 [robert.jacques@tutanota.com](mailto:robert.jacques@tutanota.com) | 🔗 [LinkedIn](https://linkedin.com/in/r-a-jacques)
+## 📫 Connect & Collaborate
+Interested in collaborative research or professional opportunities within **Explainable AI**, **Bioinformatics**, and **Digital Health**.
+
+* 📍 **Based in:** Dewsbury, UK
+* 💼 **Professional:** [LinkedIn](https://linkedin.com/in/r-a-jacques)
+* 📧 **Email:** [robert.jacques@tutanota.com](mailto:robert.jacques@tutanota.com)
