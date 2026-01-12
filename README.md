@@ -17,7 +17,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 | **Explainable AI** | Expert implementation of **SHAP** to address the "multiplicity problem" in high-dimensional genomic models. |
 | **Visualisation** | Mastery of the **ASSERT framework** to manage clinician cognitive load and engineer intuitive visual hierarchies. |
 | **Scalable Analytics** | Distributed workflows using **PySpark** and **Azure Databricks** for N-gram analysis and pattern matching. |
-| **Data Engineering** | Precision pre-processing including **log2 transformation**, **IQR filtering**, and **Standardisation**. |
+| **Data Engineering** | Precision pre-processing including **$log_{2}$ transformation**, **IQR filtering**, and **Standardisation**. |
 
 <p align="center">
   <img src="images/lr_shap_summary_top_20.png" width="650">
@@ -29,7 +29,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 
 ## 📁 Key Research Projects
 
-* 🧬 **[Psoriasis Classification & XAI](link)** (86%) — *INF6000 (Dissertation)*
+* 🧬 **[Psoriasis Classification & XAI](https://github.com/robert-jacques/INF6000-Dissertation-Psoriasis-ML)** (86%) — *INF6000 (Dissertation)*
   Developed a multi-model pipeline to identify a five-gene consensus signature (*BTC*, *CHI3L2*, *LCE3A*, *S100A9*, *SPRR2G*) from 21,510 genomic features. **NYHDIF Prize Winner.**
 
 * 📊 **[Music Feature Analysis & Visualisation](link)** (83%) — *INF4000*
