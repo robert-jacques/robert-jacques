@@ -29,7 +29,7 @@ I bridge **17+ years of clinical diagnostic experience in optometry** with speci
 
 ## 📁 Key Research Projects
 
-* 🧬 **[Psoriasis Classification & XAI](https://github.com/robert-jacques/INF6000-Dissertation-Psoriasis-ML)** (86%) — *INF6000 (Dissertation)*
+* 🧬 **[Machine Learning-Based Classification & Feature Identification for Psoriasis](https://github.com/robert-jacques/INF6000-Dissertation-Psoriasis-ML)** (86%) — *INF6000 (Dissertation)*
   Developed a multi-model pipeline to identify a five-gene consensus signature (*BTC*, *CHI3L2*, *LCE3A*, *S100A9*, *SPRR2G*) from 21,510 genomic features. **NYHDIF Prize Winner.**
 
 * 📊 **[Music Feature Analysis & Visualisation](https://github.com/robert-jacques/INF4000-Data-Visualisation)** (83%) — *INF4000*
